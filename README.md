@@ -22,7 +22,7 @@ You can reach us in person, via HipChat (including private messaging), and via t
 
 - Rahul: rahul@bigwheelbrigade.com / 510-676-0701
 - Sumeet: sumeet@bigwheelbrigade.com / 858-774-1936
-- Chris: chris@omahacodeschool.com
+- Beth: beth@bigwheelbrigade.com / 402-218-6812
 
 ---
 
