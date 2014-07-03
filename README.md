@@ -12,7 +12,7 @@ To promote this spirit of inclusivity, we ask that our instructors, students, me
 
 ## Reporting Inappropriate Behavior
 
-Omaha Code School is meant to be a safe, inclusive space. That includes our physical classroom, anywhere we go for an event, and all of our online realms. Please approach either Rahul, Sumeet, or Chris if you've experienced anything less than that. In return, we promise:
+Omaha Code School is meant to be a safe, inclusive space. That includes our physical classroom, anywhere we go for an event, and all of our online realms. Please approach either Rahul, Sumeet, or Beth if you've experienced anything less than that. In return, we promise:
 
 - **To take all harassment reports seriously.**
 - **To respect your privacy.**
