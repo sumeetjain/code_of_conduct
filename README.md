@@ -18,7 +18,7 @@ Omaha Code School is meant to be a safe, inclusive space. That includes our phys
 - **To respect your privacy.**
 - **To remove the source of harassment.** This begins with a warning to the offender,  followed by physically removing them from the area if harassment continues.
 
-You can reach us in person, via HipChat (including private messaging), and via the contact information listed below:
+You can reach us in person, via Slack (including private messaging), and via the contact information listed below:
 
 - Rahul: rahul@bigwheelbrigade.com / 510-676-0701
 - Sumeet: sumeet@bigwheelbrigade.com / 858-774-1936
