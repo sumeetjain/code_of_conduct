@@ -2,7 +2,7 @@ Our goal is for Omaha Code School to be a place where all people can learn and c
 
 ## Why isn't the intention enough?
 
-A large body of research and studies extend and supports the simple idea that our actions often have unintended consequences, and sometimes those consequences can even be _unseen_ by us.
+A large body of study extends and supports the simple idea that our actions often have unintended consequences, and sometimes those consequences can even be _unseen_ by us.
 
 An example of this is when people make jokes based on some stereotypes. The intention of the joke might have been innocent enough--perhaps to look cool or even simply to give others the joy of laughter. But an unintended and unseen impact of the joke could be that someone nearby felt hurt by the content of the joke.
 
