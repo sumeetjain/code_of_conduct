@@ -28,7 +28,7 @@ And if you're _receiving_ advice/corrections, give yourself and your feedback-gi
 
 ### Don't be surprised when someone doesn't know something.
 
-This applies to both technical things (_"What?! I can't believe you don't know what recursion is!"_) and non-technical things (_"You haven't seen the new Star Wars movie?!"_).
+This applies to both technical things (_"What?! I can't believe you don't know what recursion is!"_) and non-technical things (_"You haven't seen the new __Star Wars__?!"_).
 
 There's _a lot_ of information out there. A person might have not yet come across a certain piece of information for various reasons.
 
