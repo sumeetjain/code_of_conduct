@@ -55,7 +55,7 @@ So if you see a rule violated, we encourage you to choose one of the below optio
   - Just know that we might not be around our computers or able to view your Slack message immediately. So if you you feel a faculty member needs to be notified immediately, this last alternative will be appropriate:
 3. **Find a faculty member in person** and let them know you'd like to report that someone broke one of the social rules.
 
-For others who observed the rule's violation, please don't pile on to the person who made the mistake. Similarly, if you don't see what could be hurtful about the comment that was made please don't interject "Comment X wasn't homophobic!" into a public channel. Instead, raise your concerns to a faculty member privately. We're open to hearing your opinions, disagreements, and questions.
+For others who observed the rule's violation, please don't pile on to the person who made the mistake. Similarly, if you don't see what could be hurtful about the comment that was made please don't interject _"Comment X wasn't homophobic!"_ into a public channel. Instead, raise your concerns to a faculty member privately. We're open to hearing your opinions, disagreements, and questions.
 
 Remember, if _you_ are called out by someone for violating a rule, accept that your actions might have had an unintended consequence. It's easy to feel defensive in these situations, so following the below steps can help handle them more gracefully:
 
