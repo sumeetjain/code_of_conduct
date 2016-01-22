@@ -28,11 +28,11 @@ And if you're _receiving_ advice/corrections, give yourself and your feedback-gi
 
 ### Don't be surprised when someone doesn't know something.
 
-This applies to both technical things (_"What?! I can't believe you don't know what recursion is!"_) and non-technical things (_"You haven't seen the new __Star Wars__?!"_).
+This applies to both technical things (_"What?! I can't believe you don't know what recursion is!"_) and non-technical things (_"You haven't seen the new Star Wars?!"_).
 
 There's _a lot_ of information out there. A person might have not yet come across a certain piece of information for various reasons.
 
-If it's important for them to know that piece of information, you might offer to explain it to them or you might not--it's your choice. But either way, being shocked that they don't know something won't help them. It'll more likely make them feel embarrassed, and that can feeling can interfere with their focus and learning throughout the day.
+If it's important for them to know that piece of information, you might offer to explain it to them or you might not--it's your choice. But either way, being shocked that they don't know something won't help them. It'll more likely make them feel embarrassed, and that feeling can interfere with their focus and learning throughout the day.
 
 ### No subtle _-isms_.
 
@@ -48,21 +48,21 @@ If you see a rule violated at Omaha Code School (whether in person or online, in
 
 So if you see a rule violated, we encourage you to choose one of the below options for responding:
 
-1. Inform the person who made the mistake that they broke a rule. Give them the benefit of the doubt, if you can. Examples: "Hey--you might not know, but that joke is sexist." or "Hey, it's okay that he's never heard of _Star Trek_--please don't act shocked about it."
+1. **Inform the person who made the mistake** that they broke a rule. Give them the benefit of the doubt, if you can. Examples: "Hey--you might not know, but that joke is sexist." or "Hey, it's okay that he's never heard of _Star Trek_--please don't act shocked about it."
   - We think this is the ideal response for most mistakes. If you can, try to respond to the person directly and promptly. Remember that you can inform them in private later as well.
   - Sometimes this kind of response isn't possible for some reason, or you simply don't feel comfortable speaking directly to the person but still want them to know about their mistake. In such cases, the below options are good alternatives:
-2. Send a private message via Slack to a faculty member. Let them know what you experienced, and they will take it from there.
+2. **Send a private message via Slack to a faculty member.** Let them know what you experienced, and they will take it from there.
   - Just know that we might not be around our computers or able to view your Slack message immediately. So if you you feel a faculty member needs to be notified immediately, this last alternative will be appropriate:
-3. Find a faculty member in person and let them know you'd like to report that someone broke one of the social rules.
+3. **Find a faculty member in person** and let them know you'd like to report that someone broke one of the social rules.
 
 For others who observed the rule's violation, please don't pile on to the person who made the mistake. Similarly, if you don't see what could be hurtful about the comment that was made please don't interject "Comment X wasn't homophobic!" into a public channel. Instead, raise your concerns to a faculty member privately. We're open to hearing your opinions, disagreements, and questions.
 
 Remember, if _you_ are called out by someone for violating a rule, accept that your actions might have had an unintended consequence. It's easy to feel defensive in these situations, so following the below steps can help handle them more gracefully:
 
-1. Take a breath. It's okay--_everyone_ makes mistakes. This doesn't make you a bad person.
-2. Apologize. If a person is informing you about a mistake you made that affected someone _else_, plan to apologize to them as well. That apology can be done in person or as a private message to them via Slack.
-3. Thank the person who informed you about the mistake.
-4. Reflect for a few moments to see if you can see things from different perspectives.
+1. **Take a breath.** It's okay--_everyone_ makes mistakes. This doesn't make you a bad person.
+2. **Apologize.** If a person is informing you about a mistake you made that affected someone _else_, plan to apologize to them as well. That apology can be done in person or as a private message to them via Slack.
+3. **Thank the person who informed you** about the mistake.
+4. **Reflect** for a few moments to see if you can see things from different perspectives.
 5. If you're still feeling unsure of how you broke a social rule--or why it matters--that's okay! Get in touch with a faculty member. We're not angry folks, and our priority is for all of our students to feel supported.
 
 Omaha Code School is meant to be a safe, inclusive space. That includes our physical classroom, anywhere we go for an event, and all of our online realms. Please approach either Rahul, Sumeet, or Beth if you've experienced anything less than that. In return, we promise:
