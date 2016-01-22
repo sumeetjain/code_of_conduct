@@ -6,7 +6,7 @@ A large body of study extends and supports the simple idea that **our actions of
 
 An example of this is when people make jokes based on some stereotypes. The intention of the joke might have been innocent enough--perhaps to look cool or even simply to give others the joy of laughter. But an unintended and unseen impact of the joke could be that someone nearby felt hurt by the content of the joke.
 
-If our goal is to be a welcoming place for learning and collaboration, then we should at least consider how such a joke--and any of our words and actions--might affect the people around us.
+If our goal is to be a welcoming place for learning and collaboration, then we should at least consider how such a joke--and how any of our words and actions--might affect the people around us.
 
 Put another way, the intention alone is not enough because sometimes we say or do things that contradict our values and desires. Sometimes _good people_ accidentally do things that hurt other people, and this is will always be the case--we can't be perfect.
 
@@ -14,21 +14,21 @@ But we can try to be better, if we're interested.
 
 ## Trying to be Better
 
-Here are some **social rules** that people have found help us achieve our goal:
+Here are some **social rules** that will help us achieve our goal:
 
 ### "Did you consider...?"
 
-It's natural for us to take pride in our work, so it's natural to feel some pain when we can't figure something out, miss something obvious, or simply do something incorrectly. Since we work in pairs or groups a lot, often we'll learn of our mistakes when another person tells about it. This can be hard to take, especially as our own frustration grows.
+It's natural for us to take pride in our work, so it's natural to feel some pain when we can't figure something out, miss something obvious, or simply do something incorrectly. Since we work in pairs or groups a lot, often we'll learn of our mistakes when another person tells us about it. This can be hard to take, especially as our own frustration grows.
 
-So if you're giving someone else feedback, be thoughtful about how you give it. The three magic words to remember are "Did you consider...?". Just begin feedback with those words, and your advice/correction will be softened a bit.
+So if you're giving someone else feedback, be thoughtful about how you give it. Three magic words to remember are: **"Did you consider...?"**. Just begin feedback with those words, and your advice/correction will be softened a bit.
 
-These magic words are definitely better than some alternatives we've heard over time, like "Why didn't you just...?" and "You could just...". In fact, the word "just" is rarely if ever a good idea when giving feedback. The difference between "Did you consider using an array?" and "Why didn't you just use an array?" is _massive_.
+These magic words are definitely better than some alternatives we've heard over time, like _"Why didn't you just...?"_ and _"You could just..."_. In fact, the word _"just"_ is rarely if ever a good idea when giving feedback. The difference between _"Did you consider using an array?"_ and _"Why didn't you just use an array?"_ is huge.
 
 And if you're _receiving_ advice/corrections, give yourself and your feedback-giver the benefit of the doubt. No one is trying to be malicious towards you, so try to be forgiving of your feedback-giver. Also be forgiving to _yourself_--learning this stuff is really hard, and you're doing fine. It takes time.
 
 ### Don't be surprised when someone doesn't know something.
 
-This applies to both technical things ("What?! I can't believe you don't know what recursion is!") and non-technical things ("You haven't seen the new _Star Wars_?!").
+This applies to both technical things (_"What?! I can't believe you don't know what recursion is!"_) and non-technical things (_"You haven't seen the new _Star Wars_?!"_).
 
 There's _a lot_ of information out there. A person might have not yet come across a certain piece of information for various reasons.
 
@@ -38,7 +38,7 @@ If it's important for them to know that piece of information, you might offer to
 
 This last social rule bans subtle racism, sexism, homophobia, transphobia, and other kinds of bias. This one is different from the rest, because it covers a class of behaviors instead of one very specific pattern.
 
-Subtle _-isms_ are small things that make others feel uncomfortable, things that we all sometimes do by mistake. For example, saying "It's so easy my grandmother could do it" is a subtle _-ism_. It's hurtful to the elderly and to women (You never hear people say something is so easy their _grandfather_ could do it).
+Subtle _-isms_ are small things that make others feel uncomfortable, things that we all sometimes do by mistake. For example, saying _"It's so easy my grandmother could do it."_ is a subtle _-ism_. It's hurtful to the elderly and to women (You never hear people say something is so easy their _grandfather_ could do it).
 
 ## Rules will be broken.
 
