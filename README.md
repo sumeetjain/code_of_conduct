@@ -48,7 +48,7 @@ If you see a rule violated at Omaha Code School (whether in person or online, in
 
 So if you see a rule violated, we encourage you to choose one of the below options for responding:
 
-1. **Inform the person who made the mistake** that they broke a rule. Give them the benefit of the doubt, if you can. Examples: "Hey--you might not know, but that joke is sexist." or "Hey, it's okay that he's never heard of _Star Trek_--please don't act shocked about it."
+1. **Inform the person who made the mistake** that they broke a rule. Give them the benefit of the doubt, if you can. Examples: _"Hey--you might not know, but that joke is sexist."_ or _"Hey, it's okay that he's never heard of _Star Trek_--please don't act shocked about it."_
   - We think this is the ideal response for most mistakes. If you can, try to respond to the person directly and promptly. Remember that you can inform them in private later as well.
   - Sometimes this kind of response isn't possible for some reason, or you simply don't feel comfortable speaking directly to the person but still want them to know about their mistake. In such cases, the below options are good alternatives:
 2. **Send a private message via Slack to a faculty member.** Let them know what you experienced, and they will take it from there.
