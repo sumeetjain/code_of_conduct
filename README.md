@@ -73,7 +73,7 @@ Please approach either Rahul, Sumeet, Kathy, or a TA if you've experienced any i
 
 - **To take all harassment reports seriously.**
 - **To respect your privacy.**
-- **To remove the source of harassment.** This begins with a warning to the offender,  followed by physically removing them from the area if harassment continues.
+- **To remove the source of harassment.** This begins with a warning to the offender, followed by physically removing them from the area if harassment continues.
 
 You can reach us in person, via Slack (including private messaging), and via the contact information listed below:
 
