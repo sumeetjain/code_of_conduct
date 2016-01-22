@@ -38,7 +38,7 @@ If it's important for them to know that piece of information, you might offer to
 
 This last social rule bans subtle racism, sexism, homophobia, transphobia, and other kinds of bias. This one is different from the rest, because it covers a class of behaviors instead of one very specific pattern.
 
-Subtle _-isms_ are small things that make others feel uncomfortable, things that we all sometimes do by mistake. For example, saying "It's so easy my grandmother could do it" is a subtle _-ism_. It's hurtful to the elderly and to women (You never hear people say something is so easy their grand_father_ could do it).
+Subtle _-isms_ are small things that make others feel uncomfortable, things that we all sometimes do by mistake. For example, saying "It's so easy my grandmother could do it" is a subtle _-ism_. It's hurtful to the elderly and to women (You never hear people say something is so easy their _grandfather_ could do it).
 
 ## Rules will be broken.
 
