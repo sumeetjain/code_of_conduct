@@ -69,7 +69,7 @@ Remember, if _you_ are called out by someone for violating a rule, accept that y
 
 Until this point, this document has discussed mostly unintentional mistakes which--while important--are not likely to cause someone to feel that their safety is seriously or immediately threatened. And whereas we expect the social rules to be broken, as such mistakes are a natural part of our personal growth, we do _not_ expect our students or faculty to behave in a way that overtly threatens another person.
 
-Please approach either Rahul, Sumeet, Kathy, or a TA if you've experienced any immediate or serious threat to your safety. In return, we promise:
+Please approach either Rahul, Sumeet, Alex, or Kathy if you've experienced any immediate or serious threat to your safety. In return, we promise:
 
 - **To take all harassment reports seriously.**
 - **To respect your privacy.**
@@ -79,7 +79,7 @@ You can reach us in person, via Slack (including private messaging), and via the
 
 - Rahul: rahul@bigwheelbrigade.com / 510-676-0701
 - Sumeet: sumeet@bigwheelbrigade.com / 858-774-1936
-- Andrew: andrew@bigwheelbrigade.com
+- Alex: alex@omahacodeschool.com / 402-309-4296
 - Kathy: kathy@bigwheelbrigade.com
 
 ---
